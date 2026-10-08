@@ -1,16 +1,73 @@
-# React + Vite
+# Subrat Maharana - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website built using React.js, JavaScript, HTML, and CSS.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://subrat-portfolio-gamma.vercel.app/
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a B.Tech Computer Science Engineering student interested in frontend development and problem solving.
 
-## Expanding the ESLint configuration
+This portfolio showcases my skills, projects, and contact information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Git
+- GitHub
+
+## Featured Projects
+
+### Personal Portfolio
+A responsive personal portfolio website built with React.js, JavaScript, HTML, and CSS.
+
+### Expense Tracker Pro
+A Django-based expense management application with authentication, income and expense tracking, categories, and budget management.
+
+**Technologies:** Python, Django, MySQL, HTML, CSS, Bootstrap
+
+### Learning Management System
+A web application for user authentication, course management, and database operations.
+
+**Technologies:** Python, Django, SQL
+
+## Features
+
+- Responsive design
+- About section
+- Skills section
+- Projects showcase
+- Contact section
+- GitHub and LinkedIn links
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/subratmaharana/subrat-portfolio.git
+Go to the project directory:
+cd subrat-portfolio
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
+The application will run locally at:
+http://localhost:5173
+
+Deployment
+The portfolio is deployed using Vercel.
+Author
+Subrat Maharana
+- GitHub: https://github.com/subratmaharana
+- LinkedIn: https://www.linkedin.com/in/maharanasubrat/
+- Email: subrat.code05@gmail.com
